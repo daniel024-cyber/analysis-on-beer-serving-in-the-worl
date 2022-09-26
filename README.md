@@ -1,2 +1,2 @@
-# analysis-on-beer-serving-in-the-worl
+# analysis-on-beer-serving-in-the-world
 beer serving analysis
